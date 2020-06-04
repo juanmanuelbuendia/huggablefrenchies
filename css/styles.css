@@ -1,0 +1,133 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  background-color: #a9fdd8;
+}
+
+h1 {
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+  color: #FF69B4;
+  font-size: 100px;
+}
+h2, h3, h4, h5, h6, p, tr, td, label {
+  color: purple;
+}
+table{
+  margin: 0 auto 0 auto;
+}
+.bred-with-heart{
+  margin: 0 auto 0 auto;
+  width: 200px;
+
+}
+.contact-container{
+  position: relative;
+  padding-top: 150px;
+  margin: 0 auto 0 auto;
+}
+.contactdetails{
+  margin: 0 auto 0 auto;
+}
+.drax{
+  margin: 0 auto 0 auto;
+position: relative;
+}
+.draxpictures{
+  position: relative;
+  margin: 0 auto 0 auto;
+}
+.draxpicture{
+
+  width: 300px;
+  height: 300px;
+}
+.draxfutbol{
+  position: relative;
+  margin: 220;
+  width: 200px;
+}
+.draxpicture1{
+  position: relative;
+  width: 180px;
+}
+.draxpicture2{
+  position: relative;
+  right: 220;
+  width:174px;
+}
+.drax1{
+  right: 100px;
+
+}
+.drax3{
+  left: 100px;
+
+}
+.top-container {
+  margin: 0 auto 0 auto;
+  position: relative;
+  width: 1319px;
+  height: 100px;
+}
+
+.middle-container {
+  margin: 0 auto 0 auto;
+  padding-top: 100px;
+width: 1319px;
+height: 40px;
+}
+
+.bottom-container {
+  margin: 0 auto 0 auto;
+}
+
+
+.flowerfrenchie {
+  margin: 0;
+  position: relative;
+  width: 80px;
+  height: 80px;
+}
+hr{
+  width: 100px;
+  border-top: 5px dotted #FF69B4;
+}
+.profile{
+  position: relative;
+  margin: 0 auto 0 auto;
+  padding: 50px;
+}
+.footer {
+  position: relative;
+  margin: 0 auto 0 auto;
+  padding-top: 100px;
+}
+.footer-link {
+  position: relative;
+  margin: 0 auto 0 auto;
+  padding-top: 100px;
+}
+.babies{
+  position: relative;
+  margin: 0 auto 0 auto;
+  padding-top: 50px;
+}
+.frenchiebabies{
+  position: relative;
+  margin: 0 auto 0 auto;
+  width: 200px;
+  padding-bottom: 100px;
+}
+.contactdetails{
+  position: relative;
+  margin: 0 auto 0 auto;
+  padding-top: 50px;
+}
+.business-name{
+  position: relative;
+  margin: 0 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+
+}
